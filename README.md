@@ -6,6 +6,7 @@
 - k8s-handle - https://github.com/2gis/k8s-handle
 - k8s-handle-example - https://github.com/2gis/k8s-handle-example
 - Презентация - https://goo.gl/T7ZGbM
+- Видео - https://youtu.be/Utbuw8fQ3rU
 - Любые вопросы по презентации - e.dekhtyarev@2gis.ru
 
 ## ENG
@@ -14,4 +15,5 @@ Support materials on the report "_Deploy to Kubernetes. Continuously and in own 
 - k8s-handle - https://github.com/2gis/k8s-handle
 - k8s-handle-example - https://github.com/2gis/k8s-handle-example
 - Presentation - https://goo.gl/T7ZGbM
+- Video - https://youtu.be/Utbuw8fQ3rU
 - Any questions about the presentation - e.dekhtyarev@2gis.ru
